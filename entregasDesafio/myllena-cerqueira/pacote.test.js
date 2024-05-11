@@ -17,3 +17,4 @@ test('deve retornar pacotpacote_intermediarioe_basico quando a duração do proj
     const retornado = calcularPacote(51);
     expect(esperado).toBe(retornado);
 });
+
